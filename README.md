@@ -6,7 +6,7 @@ A customized Solarized Light theme with Operator Mono support for Visual Studio 
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 
-![theme preview](https://imgur.com/1mVeUmC)
+![theme preview](https://i.imgur.com/1mVeUmC.jpg)
 
 </div>
 
