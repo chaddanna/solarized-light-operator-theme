@@ -6,7 +6,7 @@ A customized Solarized Light theme with Operator Mono support for Visual Studio 
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 
-![theme preview](https://imgur.com/a/C2hD3VU)
+![theme preview](https://imgur.com/1mVeUmC)
 
 </div>
 
@@ -19,4 +19,5 @@ A customized Solarized Light theme with Operator Mono support for Visual Studio 
 5. Navigate to File > Preferences > Color Theme > **Solarized Light Operator Theme** or any of the variants listed
 6. Yay! You're all set 🎉🎉.
 
-Designed by **[Chad Danna](https://github.com/chaddanna)** in **Denver, CO**. Go follow me on **[Twitter](https://twitter.com/chaddillackin)**!
+Designed by **[Chad Danna](https://github.com/chaddanna)** in **Denver, CO**.
+Follow me on **[Twitter](https://twitter.com/chaddillackin)**
