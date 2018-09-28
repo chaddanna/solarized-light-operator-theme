@@ -1,22 +1,26 @@
 {
-    "name": "solarized-light-operator-theme",
-    "displayName": "Solarized Light Operator Theme",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "Chad",
-    "engines": {
-        "vscode": "^1.27.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Solarized Light Operator Theme",
-                "uiTheme": "vs",
-                "path": "./themes/Solarized Light Operator Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "solarized-light-operator-theme",
+  "displayName": "Solarized Light Operator Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "Chad",
+  "engines": {
+    "vscode": "^1.27.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaddanna/solarized-light-operator-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Light Operator Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Solarized Light Operator Theme-color-theme.json"
+      }
+    ]
+  }
 }
