@@ -22,7 +22,7 @@
     },
     {
       "name": "Punctuation",
-      "scope": ["punctuation", "meta.brace.round.js"],
+      "scope": ["punctuation", "meta.brace.round.js", "meta.brace.square.js"],
       "settings": {
         "foreground": "#D84B3D"
       }

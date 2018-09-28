@@ -1,8 +1,8 @@
 {
   "name": "solarized-light-operator-theme",
   "displayName": "Solarized Light Operator Theme",
-  "description": "",
-  "version": "0.0.2",
+  "description": "A customized Solarized Light theme with Operator Mono support for Visual Studio Code.",
+  "version": "0.1.0",
   "publisher": "Chad",
   "engines": {
     "vscode": "^1.27.0"
