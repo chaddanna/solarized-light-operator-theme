@@ -2,7 +2,7 @@
   "name": "solarized-light-operator-theme",
   "displayName": "Solarized Light Operator Theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Chad",
   "engines": {
     "vscode": "^1.27.0"
